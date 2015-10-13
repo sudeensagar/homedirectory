@@ -1,1 +1,3 @@
 This is a simle text file to test the features
+
+I am adding another line
